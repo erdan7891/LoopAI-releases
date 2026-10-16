@@ -4,7 +4,7 @@
 
 ## 下载
 
-到 [最新版本](https://github.com/erdan7891/LoopAI-releases/releases/latest) 下载 `LoopAI.Setup.x.y.z.exe`，运行即可：
+到 [最新版本](https://github.com/erdan7891/LoopAI-releases/releases/latest) 下载 `LoopAI-Setup-x.y.z.exe`，运行即可：
 
 - 支持 Windows 10 / 11 64 位；
 - 按当前用户安装，不需要管理员权限；
